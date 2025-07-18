@@ -1,0 +1,29 @@
+# Ignore PowerPoint files
+*.ppt
+*.pptx
+*.pps
+*.ppsx
+*.pot
+*.potx
+
+# Ignore Excel files
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.xlt
+*.xltx
+*.xltm
+*.csv
+
+# Ignore common image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.webp
+*.ico
+*.heic
