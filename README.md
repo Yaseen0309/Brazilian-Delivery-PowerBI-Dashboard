@@ -1,4 +1,4 @@
-# 🇧🇷 Brazilian Delivery Center - Business Intelligence Dashboard
+# Brazilian Delivery Center - Business Intelligence Dashboard
 
 This project presents an interactive Power BI dashboard that analyzes performance and operational trends from a Brazilian delivery service dataset. It helps business stakeholders understand key customer behaviors, payment patterns, cancellations, profitability factors, and more.
 
